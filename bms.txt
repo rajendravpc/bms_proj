@@ -1,0 +1,8 @@
+/***********BMS************/
+
+Monitoring the following parameters.
+1.Cell voltages
+1.Cell Internl Resistance
+2.Cell Closed Circuit Voltages
+4.Cell temperatures
+5.Cell state of charge
