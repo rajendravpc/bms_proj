@@ -2,7 +2,9 @@
 
 Monitoring the following parameters.
 1.Cell voltages
-1.Cell Internl Resistance
-2.Cell Closed Circuit Voltages
+2.Cell Internal Resistance
+3.Cell Closed Circuit Voltages
 4.Cell temperatures
 5.Cell state of charge
+6.Count every 5 mintes
+7.Measure Humidity 
